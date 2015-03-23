@@ -14,20 +14,21 @@ html * {
 
 body {
   font-size: 100%;
-  font-family: "Droid Serif", serif;
+  font-family: 'Vollkorn', serif;
   color: #7f8c97;
   background: #e8e8e8; }
 
 a {
   color: #acb7c0;
   text-decoration: none;
-  font-family: "Open Sans", sans-serif; }
+    font-family: 'Vollkorn', serif;
+}
 
 img {
   max-width: 100%; }
 
 h1, h2 {
-  font-family: "Open Sans", sans-serif;
+    font-family: 'Vollkorn', serif;
   font-weight: bold; }
 
 /* -------------------------------- 
