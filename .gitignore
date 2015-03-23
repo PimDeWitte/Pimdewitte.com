@@ -1,0 +1,7 @@
+.idea/*
+.sass-cache
+.sass-cache/*
+.idea
+scss/.sass-cache
+scss/.sass-cache/*
+.DS_STORE
